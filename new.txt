@@ -1,2 +1,4 @@
-1
-2
+About me :
+age:39
+number of pets : 1
+salary: 3000
