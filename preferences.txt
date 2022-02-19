@@ -1,0 +1,5 @@
+Favorite movie : "Lord of the Rings";
+Favorite show: "Dark";
+Favorite food : meat salad;
+Favorite season : summer;
+My dream country Italy
